@@ -1,3 +1,3 @@
 # angular-webshop-tutorial
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-amrvu4)
+Made this simple webshop to get a taste of Angular.
